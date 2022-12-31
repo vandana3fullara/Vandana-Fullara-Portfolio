@@ -1,0 +1,27 @@
+:root{
+
+	--mainColor:#141B1F;
+	--mainColorShade1:#141B1F;
+
+	--solidBgColor:#fff;
+
+	--glassColor:linear-gradient(90deg, rgba(253,251,251,0.1) 0%, rgba(235,237,238,0.1) 100%);
+
+	--glassShadow:box-shadow: 5px 5px 15px -11px #000000;
+
+	--lineBreakColor:rgba(235,237,238,0.2);
+
+
+
+	--textColor1:#fff;
+	--textColor2:rgb(218, 216, 219);
+	--textColor3:#000000; /*Dark*/
+	--textColor4:#636262;
+
+	--blob1BgColor:linear-gradient(90deg, rgba(202,202,202,0.7) 0%, rgba(99,99,99,0.8) 100%);
+
+	--blob2BgColor:linear-gradient(90deg, rgba(180,180,180,0.8) 0%, rgba(99,99,99,0.8) 100%);
+}
+
+
+
